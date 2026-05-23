@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+    <!-- Attach OVR_Zombie_ModdedLoot to infected/zombies. Add any custom infected classnames below using the same format. -->
+    <type name="ZmbM_CitizenASkinny_Blue">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_CitizenASkinny_Brown">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_CitizenASkinny_Grey">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_CitizenASkinny_Red">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_CitizenBFat_Blue">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_CitizenBFat_Green">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_CitizenBFat_Red">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_CitizenANormal_Beige">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_CitizenANormal_Brown">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_CitizenANormal_Blue">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_CitizenBSkinny">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_CitizenBSkinny_Blue">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_CitizenBSkinny_Red">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_CitizenBSkinny_Grey">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_VillagerOld_Blue">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_VillagerOld_Green">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_VillagerOld_White">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_VillagerOld_Blue">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_VillagerOld_Green">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_VillagerOld_Red">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_Jacket_black">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_Jacket_blue">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_Jacket_stripes">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_Jacket_magenta">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_Jacket_greenchecks">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_Jacket_khaki">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_JacketBasic_Black">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_JacketBasic_Brown">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_JacketBasic_Grey">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_JacketBasic_Violet">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_PatrolNormal_Autumn">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_PatrolNormal_Flat">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_PatrolNormal_PautRev">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_WorkerSkinny_Blue">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_WorkerSkinny_Green">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_WorkerSkinny_Grey">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_MechanicNormal_Beige">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_MechanicNormal_Green">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_MechanicNormal_Grey">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_PolicemanFat">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_PolicemanSpecForce">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_PoliceWomanNormal">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_FirefighterNormal">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_FirefighterNormal">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_ParamedicNormal_Blue">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_ParamedicNormal_Green">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_ParamedicNormal_Red">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_ParamedicNormal_Blue">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_ParamedicNormal_Green">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_ParamedicNormal_Red">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_DoctorFat">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_DoctorSkinny">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_NurseFat">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_NurseFat">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_PatientOld">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_SoldierNormal">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_usSoldier_normal_Woodland">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_usSoldier_Heavy_Woodland">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_SoldierAlice">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_CommercialPilotOld_Blue">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_CommercialPilotOld_Brown">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_PilotZombie_Base">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_PilotZombie_Blue">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_PilotZombie_Brown">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_NBC_Grey">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_NBC_Yellow">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_NBC_Grey">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_NBC_Yellow">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_PrisonerSkinny">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_PrisonerSkinnyBrown">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_PrisonerSkinnyGrey">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_HermitSkinny_Beige">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_HermitSkinny_Black">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_HermitSkinny_Green">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_HunterOld_Autumn">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_HunterOld_Spring">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_HunterOld_Summer">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_HunterOld_Winter">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_HikerSkinny_Blue">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_HikerSkinny_Green">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_HikerSkinny_Grey">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_HikerSkinny_Red">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_HikerSkinny_Blue">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_HikerSkinny_Green">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_HikerSkinny_Yellow">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_JoggerSkinny_Blue">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_JoggerSkinny_Green">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_JoggerSkinny_Red">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_JoggerSkinny_Blue">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_JoggerSkinny_Brown">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_JoggerSkinny_Green">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_JoggerSkinny_Red">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_ClerkFat_Brown">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_ClerkFat_Grey">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_ClerkFat_Khaki">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_Clerk_Normal_Blue">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_Clerk_Normal_Green">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_Clerk_Normal_Red">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_ConstrWorkerNormal_Beige">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_ConstrWorkerNormal_Black">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_ConstrWorkerNormal_Green">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_ConstrWorkerNormal_Grey">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_MotobikerFat_Beige">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_MotobikerFat_Black">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_MotobikerFat_Blue">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_SkaterYoung_Blue">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_SkaterYoung_Brown">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_SkaterYoung_Green">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbM_SkaterYoung_Grey">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_SkaterYoung_Brown">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_SkaterYoung_Striped">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+    <type name="ZmbF_SkaterYoung_Violet">
+        <cargo preset="OVR_Zombie_ModdedLoot" />
+    </type>
+</spawnabletypes>
