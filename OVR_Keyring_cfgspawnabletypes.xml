@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+    <type name="BS_KeyRing">
+        <cargo chance="0.35">
+            <item name="BS_Key1" chance="0.15"/>
+            <item name="BS_Key2" chance="0.15"/>
+            <item name="BS_Key3" chance="0.15"/>
+            <item name="BS_Key4" chance="0.15"/>
+            <item name="BS_Key5" chance="0.15"/>
+            <item name="BS_Key6" chance="0.15"/>
+            <item name="BS_Key7" chance="0.15"/>
+            <item name="BS_Key8" chance="0.15"/>
+            <item name="BS_Key9" chance="0.15"/>
+            <item name="BS_Key10" chance="0.15"/>
+            <item name="BS_Key11" chance="0.15"/>
+            <item name="BS_Key12" chance="0.15"/>
+            <item name="BS_Key13" chance="0.15"/>
+            <item name="BS_Key14" chance="0.15"/>
+            <item name="BS_Key23" chance="0.15"/>
+            <item name="BS_bluekey1" chance="0.15"/>
+            <item name="BS_bluekey2" chance="0.15"/>
+            <item name="BS_bluekey3" chance="0.15"/>
+            <item name="BS_bluekey4" chance="0.15"/>
+            <item name="BS_greenkey1" chance="0.15"/>
+            <item name="BS_greenkey2" chance="0.15"/>
+            <item name="BS_greenkey3" chance="0.15"/>
+            <item name="BS_greenkey4" chance="0.15"/>
+            <item name="BS_redkey1" chance="0.15"/>
+            <item name="BS_redkey2" chance="0.15"/>
+            <item name="BS_redkey3" chance="0.15"/>
+            <item name="BS_redkey4" chance="0.15"/>
+            <item name="BS_yellowkey1" chance="0.15"/>
+            <item name="BS_yellowkey2" chance="0.15"/>
+            <item name="BS_yellowkey3" chance="0.15"/>
+            <item name="BS_New_White_Key1" chance="0.15"/>
+            <item name="BS_New_White_Key2" chance="0.15"/>
+            <item name="BS_New_White_Key3" chance="0.15"/>
+            <item name="BS_New_White_Key4" chance="0.15"/>
+            <item name="BS_New_Blue_Key1" chance="0.15"/>
+            <item name="BS_New_Blue_Key2" chance="0.15"/>
+            <item name="BS_New_Blue_Key3" chance="0.15"/>
+            <item name="BS_New_Blue_Key4" chance="0.15"/>
+            <item name="BS_New_Green_Key1" chance="0.15"/>
+            <item name="BS_New_Green_Key2" chance="0.15"/>
+            <item name="BS_New_Green_Key3" chance="0.15"/>
+            <item name="BS_New_Green_Key4" chance="0.15"/>
+            <item name="BS_New_Red_Key1" chance="0.15"/>
+            <item name="BS_New_Red_Key2" chance="0.15"/>
+            <item name="BS_New_Red_Key3" chance="0.15"/>
+            <item name="BS_New_Red_Key4" chance="0.15"/>
+            <item name="BS_New_Silver_Key1" chance="0.15"/>
+            <item name="BS_New_Silver_Key2" chance="0.15"/>
+            <item name="BS_New_Silver_Key3" chance="0.15"/>
+            <item name="BS_New_White2_Key1" chance="0.15"/>
+            <item name="BS_New_White2_Key2" chance="0.15"/>
+            <item name="BS_New_White2_Key3" chance="0.15"/>
+            <item name="BS_New_White2_Key4" chance="0.15"/>
+            <item name="BS_New_Yellow_Key1" chance="0.15"/>
+            <item name="BS_New_Yellow_Key2" chance="0.15"/>
+            <item name="BS_New_Yellow_Key3" chance="0.15"/>
+            <item name="BS_New_Yellow_Key4" chance="0.15"/>
+            <item name="BS_New_Yellow_Key5" chance="0.15"/>
+        </cargo>
+    </type>
+</spawnabletypes>
