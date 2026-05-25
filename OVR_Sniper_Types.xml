@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="A6_R700">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Hunting"/>
+		<usage name="Village"/>
+		<usage name="Police"/>
+		<usage name="Military"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="A6_M24">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Hunting"/>
+		<usage name="Village"/>
+		<usage name="Police"/>
+		<usage name="Military"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="A6_SVD">
+		<nominal>14</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="A6_SVD_Tiger">
+		<nominal>14</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="A6_SV98">
+		<nominal>14</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="A6_Delta5">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>2400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="A6_Delta5_Camo1">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>2400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="A6_Delta5_Camo2">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>2400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="A6_Delta5_Camo3">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>2400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="A6_Delta5_Camo4">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>2400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="A6_Delta5_Camo5">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>2400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="A6_Delta5_Camo6">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>2400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="A6_Delta5_Camo7">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>2400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="A6_Delta5_Camo8">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>2400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="A6_Delta5_Camo9">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>2400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="A6_Delta5_Camo10">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>2400</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Hunting"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="A6_DVL10">
+		<nominal>8</nominal>
+		<lifetime>14400</lifetime>
+		<restock>2400</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="A6_TheFix">
+		<nominal>12</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="A6_TheFix_Green">
+		<nominal>12</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="A6_M24A3">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Hunting"/>
+		<usage name="Village"/>
+		<usage name="Police"/>
+		<usage name="Military"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="A6_Z_008_Alik">
+		<nominal>14</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="A6_Z_008_Carbone">
+		<nominal>14</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="A6_Z_008_Purple">
+		<nominal>14</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="A6_Z_008_Skull">
+		<nominal>14</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="A6_SPR300_Black">
+		<nominal>6</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="A6_SPR300_Green">
+		<nominal>6</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="A6_SPR300_Tan">
+		<nominal>6</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="A6_SPR300_White">
+		<nominal>6</nominal>
+		<lifetime>14400</lifetime>
+		<restock>3600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier3"/>
+	</type>
+</types>
